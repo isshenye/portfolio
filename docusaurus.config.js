@@ -103,7 +103,6 @@ module.exports = {
           items: [
             {
               html: `<a href="https://isshenye.github.io/StaticRepo/sponsor/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>`,
-              <iframe src="https://isshenye.github.io/StaticRepo/sponsor/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;" frameborder="0" scrolling="no"></iframe>
             },
           ],
         },

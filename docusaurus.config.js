@@ -126,7 +126,17 @@ module.exports = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/djamaile/portfolio/edit/master/',
+          editUrl: 'https://github.com/isshenye/portfolio/blog/',
+          feedOptions: {
+            type: 'all',
+          },
+          postsPerPage: 3,
+          truncateMarker: /<!--\s*(truncate)\s*-->/,
+        },
+        docs: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          editUrl: 'https://github.com/isshenye/portfolio/docs/',
           feedOptions: {
             type: 'all',
           },

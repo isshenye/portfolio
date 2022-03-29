@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Djamaile Rahamat',
+  title: 'Bamboo leaves',
   tagline:
     'I like full-stack development. Also, I am interested in the cloud, coding & e-sports.',
   url: 'https://djamaile.dev',
@@ -77,7 +77,7 @@ module.exports = {
   ],
   themeConfig: {
     navbar: {
-      title: 'Djamaile Rahamat',
+      title: 'Bamboo leaves',
       logo: {
         alt: 'My Site Logo',
         src: 'img/mob-2.png',
